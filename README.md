@@ -1,10 +1,14 @@
-## Hi there 👋
+## I'm gonna create untill perfection ✌️✌️
+📫 How to reach me : [My Resume](https://mohdsohel-07.github.io/resume/) 
+--- 
+🔭You can find about me : [Find Me](https://mohdsohel-07.github.io/portfolio/)
+---
 
 <!--
-**mohdsoh3l/mohdsoh3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mohdsohel-07/mohdsohel-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+ 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,5 +16,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
