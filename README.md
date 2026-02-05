@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech in Computer Science Engineering  
-- 💼 Working at Mahindra & Mahindra  
+- 💼 Worked at Mahindra & Mahindra  
 - 🌱 Learning Full Stack Development (Node.js, Firebase, JS)  
 - 🛠️ Built projects like To-Do List, Tic Tac Toe, Rock Paper Scissors  
 - 🎯 Goal: Create real-world impactful software
