@@ -3,7 +3,7 @@
 --- 
 🔭You can find about me : [Find Me](https://mohdsoh3l.github.io/portfolio/)
 ---
-![Snake animation](https://github.com/mohdsohel-07/mohdsohel-07/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!--
