@@ -1,20 +1,44 @@
-## I'm gonna create untill perfection ✌️✌️
-📫 How to reach me : [My Resume](https://mohdsoh3l.github.io/resume/) 
---- 
-🔭You can find about me : [Find Me](https://mohdsoh3l.github.io/portfolio/)
+<h1 align="center">Hi 👋, I'm Mohd Sohel</h1>
+<h3 align="center">B.Tech CSE Student | Full Stack Learner | Problem Solver</h3>
+
+<p align="center">
+  <a href="https://mohdsoh3l.github.io/portfolio/">🌐 Portfolio</a> •
+  <a href="https://mohdsoh3l.github.io/resume/">📄 Resume</a> •
+  <a href="https://github.com/mohdsoh3l">💻 GitHub</a>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech in Computer Science Engineering  
+- 💼 Working at Mahindra & Mahindra  
+- 🌱 Learning Full Stack Development (Node.js, Firebase, JS)  
+- 🛠️ Built projects like To-Do List, Tic Tac Toe, Rock Paper Scissors  
+- 🎯 Goal: Create real-world impactful software
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  📫 Email: <b>zaiduroy@gmail.com</b><br/>
+  🔗 Portfolio: https://mohdsoh3l.github.io/portfolio/<br/>
+  📄 Resume: https://mohdsoh3l.github.io/resume/
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  💻 HTML • CSS • JavaScript • Node.js • Firebase <br/>
+  ⚙️ Git • GitHub • VS Code
+</p>
+
 ---
 
 
+## "I'm gonna create until perfection." ✌️
 
-<!--
-**mohdsohel-07/mohdsohel-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...  
+---
