@@ -1,7 +1,7 @@
 ## I'm gonna create untill perfection ✌️✌️
-📫 How to reach me : [My Resume](https://mohdsohel-07.github.io/resume/) 
+📫 How to reach me : [My Resume](https://mohdsoh3l.github.io/resume/) 
 --- 
-🔭You can find about me : [Find Me](https://mohdsohel-07.github.io/portfolio/)
+🔭You can find about me : [Find Me](https://mohdsoh3l.github.io/portfolio/)
 ---
 
 <!--
