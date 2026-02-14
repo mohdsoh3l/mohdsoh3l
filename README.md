@@ -25,7 +25,7 @@
 <p>
   📫 Email: <b>zaiduroy@gmail.com</b><br/>
   🔗 Portfolio: https://mohdsoh3l.github.io/portfolio/<br/>
-  📄 Resume: https://mohdsoh3l.github.io/resume/
+  📄 Resume: https://mohdsoh3l.github.io/resume/<br/>
   ☑️LinkedIn: www.linkedin.com/in/mohdsoh3l/
 </p>
 
