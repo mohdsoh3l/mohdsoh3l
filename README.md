@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://mohdsoh3l.github.io/portfolio/">🌐 Portfolio</a> •
   <a href="https://mohdsoh3l.github.io/resume/">📄 Resume</a> •
-  <a href="https://github.com/mohdsoh3l">💻 GitHub</a> .
+  <a href="https://github.com/mohdsoh3l">💻 GitHub</a> •
   <a href="www.linkedin.com/in/mohdsoh3l">☑️ LinkedIn</a>
 </p>
 
