@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohd Sohel</h1>
 <h3 align="center">B.Tech CSE Student | Full Stack Learner | Problem Solver</h3>
-
+ 
 <p align="center">
   <a href="https://mohdsoh3l.github.io/portfolio/">🌐 Portfolio</a> •
   <a href="https://mohdsoh3l.github.io/resume/">📄 Resume</a> •
