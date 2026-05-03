@@ -41,7 +41,7 @@
 ---
 
 
-## "I'm gonna create until perfection." ✌️  
+## "I'm gonna create until perfection." ✌️   
 
 ---
 
